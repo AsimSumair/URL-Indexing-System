@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Secret files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+google_keys/
+google_keys/
